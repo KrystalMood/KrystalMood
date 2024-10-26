@@ -51,9 +51,10 @@ It is still work in progress, especially the backend
 - 🌈 Proudly delusional about what I can build (but hey, that's how innovation happens!)
 
 ---
-## Meet Noah :3
-<div class="tenor-gif-embed" data-postid="11801026994648350903" data-share-method="host" data-aspect-ratio="0.913655" data-width="100%"><a href="https://tenor.com/view/noah-windbreaker-gif-11801026994648350903">Noah Windbreaker GIF</a>from <a href="https://tenor.com/search/noah+windbreaker-gifs">Noah Windbreaker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+👋 See ya!
+<div align="center">
+  <img src="https://media1.tenor.com/m/2L_RVUkSfQwAAAAd/noah-windbreaker.gif" alt="Noah Windbreaker GIF" width="300"/>
+</div>
 
 ## 📊 GitHub Stats
 
