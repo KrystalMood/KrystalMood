@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hello, Everyoneeee! I'm Mood :3
 
-<!--
-**KrystalMood/KrystalMood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Frontend enthusiast turning caffeine into code ✨
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Self-taught developer with a passion for creating beautiful, user-friendly interfaces. I believe in the power of continuous learning and pushing the boundaries of what's possible in frontend development. Sometimes I get a bit delusional with my coding ambitions, but that's what makes the journey exciting! 🚀
+
+## 🛠️ Tech Stack
+
+```text
+Core:         TypeScript, JavaScript
+Frontend:     Remix.js, Next.js, Vite, HTML/CSS
+Tools:        VS Code, Git
+```
+
+## 💻 What I Do Best
+
+```typescript
+const developer = {
+  focus: "Frontend Development",
+  favorites: {
+    language: "TypeScript",
+    frameworks: ["Remix.js", "Next.js"],
+    buildTool: "Vite",
+    editor: "VS Code"
+  },
+  currentStatus: "Building the next big thing (or just debugging... again)"
+};
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
+
+## 🌟 Featured Projects
+*(Add your projects here - show off what you've built with Remix.js, Next.js, or Vite!)*
+
+### 🎯 My Fullstack Project
+It is still work in progress, especially the backend
+- **Tech Stack:** TypeScript, Next.js
+- [View Project]((https://github.com/KrystalMood/blog-remix-project.git))
+
+## 🌱 Currently Learning
+
+- Advanced Frontend Architecture
+- Backend Development Fundamentals
+- UI/UX Best Practices
+- The art of debugging (it's a never-ending journey 😅)
+
+## 💡 Fun Facts
+
+- 🎵 Music enthusiast who vibes to ALL genres while coding
+- 🚀 Self-taught developer - proof that determination beats formal education
+- 🙏 Grateful for @a6iyyu for being part of my learning journey
+- 🌈 Proudly delusional about what I can build (but hey, that's how innovation happens!)
+
+---
+
+<div align="center">
+  <i>💭 "Sometimes delusion is just innovation that hasn't happened yet" 💭</i>
+</div>
