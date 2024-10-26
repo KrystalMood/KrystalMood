@@ -29,7 +29,6 @@ const developer = {
 };
 ```
 ## 🌟 Featured Projects
-*(Add your projects here - show off what you've built with Remix.js, Next.js, or Vite!)*
 
 ### 🎯 My Fullstack Project
 It is still work in progress, especially the backend
@@ -53,7 +52,7 @@ It is still work in progress, especially the backend
 ---
 👋 See ya!
 <div align="center">
-  <img src="https://media1.tenor.com/m/2L_RVUkSfQwAAAAd/noah-windbreaker.gif" alt="Noah Windbreaker GIF" width="300"/>
+  <img src="https://media1.tenor.com/m/o8WrhvDPgLcAAAAd/noah-windbreaker.gif" alt="Noah Windbreaker GIF" width="300"/>
 </div>
 
 ## 📊 GitHub Stats
