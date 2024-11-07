@@ -11,6 +11,7 @@ Self-taught developer with a passion for creating beautiful, user-friendly inter
 ```text
 Core:         TypeScript, JavaScript
 Frontend:     Remix.js, Next.js, Vite, HTML/CSS
+Backend:      Laravel, Express.js
 Tools:        VS Code, Git
 ```
 
@@ -21,7 +22,7 @@ const developer = {
   focus: "Frontend Development",
   favorites: {
     language: "TypeScript",
-    frameworks: ["Remix.js", "Next.js"],
+    frameworks: ["Remix.js", "Next.js", "Laravel", "Express.js"],
     buildTool: "Vite",
     editor: "VS Code"
   },
@@ -52,7 +53,7 @@ It is still work in progress, especially the backend
 ---
 👋 See ya!
 <div align="center">
-  <img src="https://media1.tenor.com/m/o8WrhvDPgLcAAAAd/noah-windbreaker.gif" alt="Noah Windbreaker GIF" width="300"/>
+  <img src="https://media.tenor.com/ug8WDxKpY94AAAAd/my-reaction-to-that-information-anime-reaction.gif" alt="Noah Windbreaker GIF" width="300"/>
 </div>
 
 ## 📊 GitHub Stats
